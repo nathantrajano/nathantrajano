@@ -3,6 +3,7 @@
 Sou um Software Engineer com experiência em construir sistemas escaláveis e um Game Developer apaixonado por criar experiências imersivas.
 
 Atualmente Bolsista do PET-Saúde I&SD da UFCG
+
 Lead Developer do MaquinoMaquia Arena👊
 
 ---
