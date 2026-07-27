@@ -4,8 +4,6 @@ Sou um Software Engineer com experiência em construir sistemas escaláveis e um
 
 Atualmente Bolsista do PET-Saúde I&SD da UFCG
 
-Lead Developer do MaquinoMaquia Arena👊
-
 ---
 
 ## 🚀 Minhas Skills
